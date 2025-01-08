@@ -1,0 +1,26 @@
+Relatório sobre as relações de caracteristicas do cliente e a sua decisão de compra
+Objetivo
+
+Avaliar quais são dados que mais diferenciam os clientse que iram efetar a compra e aquele que não irá.
+
+    De acordo com relacionamentos simples os principais fatores que diferenciam os clientes que iram comprar são:
+    O tempo passado dentro do site e a sua idade.
+
+Resultados dos Modelos
+
+    Por meio de avaliações sobre os modelos a opção que se mostra mais confiável é a da random forest
+
+Importância das variáveis
+
+    As variáveis mais importantes para todos os modelos foram tempo no site e idade.
+
+hiperparâmetros
+
+    A utilização de hiperparâmetros foi uma ferramenta que melhorou a performance de todos os modelos.
+    Apesar de não mostrar uma diferença tão alarmante o hiperparâmetro traz mais detalhes fazendo o processo ser mais seguro e correto
+
+Conclusões
+
+    Random Forest foi o modelo mais eficaz, com melhor combinação de precisão e confiabilidade.
+    Árvore de Decisão e Regressão Logística são mais simples, mas ainda assim eficazes, com boa interpretabilidade.
+    A otimização de hiperparâmetros melhorou o desempenho de todos os modelos.
